@@ -92,7 +92,7 @@ La nota final considera las interrogaciones, el examen práctico y el proyecto d
 * **Fechas de interrogaciones:**
   * **I1:** 3 de Abril
   * **I2:** 3 de Mayo
-  * **I3:** 30 de Junio
+  * **I3:** 30 de Mayo
   * **Exámen:** 3 de Julio
 
 Durante el semestre podrían haber evaluaciones y/o acividades, con o sin previo aviso, que aunque no serán consideradas directamente en la nota final, podrían significar bonificaciones en alguna de las evaluaciones listadas anteriormente.
