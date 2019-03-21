@@ -1,6 +1,6 @@
 # Entrega 1
 
-**Fecha límite**: Jueves 28 de Marzo, 23:59 hrs.
+**Fecha límite**: Viernes 29 de Marzo, 23:59 hrs.
 
 ## Trabajo a realizar
 
