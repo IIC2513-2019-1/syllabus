@@ -9,7 +9,40 @@ Los enunciados dan la línea general de la funcionalidad que deben implementar, 
 Cada equipo tiene asignado un proyecto y un ayudante que los guiará y evaluará durante el semestre. Las asignaciones de proyecto y ayudante están detalladas aquí:
 
 | Equipo  | Proyecto | Ayudante |
-|:-------------------- |:---------------------------| :------|
+|:---------------------- |:---------------------------| :------|
+| WAHACO                 |  [Re-Z](https://docs.google.com/document/d/12Z_E5eLQOlIlj7V4ogaQ0MrkUAdKtwwK83n3gruepNs/edit?usp=sharing)      | Gabriel Faundez     |
+| NotJava                |  [Re-Z](https://docs.google.com/document/d/12Z_E5eLQOlIlj7V4ogaQ0MrkUAdKtwwK83n3gruepNs/edit?usp=sharing)      | Gabriel Faundez     |
+| 3532                   |  [Re-Z](https://docs.google.com/document/d/12Z_E5eLQOlIlj7V4ogaQ0MrkUAdKtwwK83n3gruepNs/edit?usp=sharing)      | Gabriel Faundez     |
+| Incompleto             |  [Re-Z](https://docs.google.com/document/d/12Z_E5eLQOlIlj7V4ogaQ0MrkUAdKtwwK83n3gruepNs/edit?usp=sharing)      | Andrés Mardones     |
+| sofweb                 |  [Re-Z](https://docs.google.com/document/d/12Z_E5eLQOlIlj7V4ogaQ0MrkUAdKtwwK83n3gruepNs/edit?usp=sharing)      | Andrés Mardones     |
+| Schwabar               |  [Leapin](https://docs.google.com/document/d/1f_pqys0On6WQLmpHFvsHBFmdH5PN9o_jza8o20fy56E/edit?usp=sharing)      | Verner Codoceo      |
+| flerken                |  [Leapin](https://docs.google.com/document/d/1f_pqys0On6WQLmpHFvsHBFmdH5PN9o_jza8o20fy56E/edit?usp=sharing)      | Sebastián Felbol    |
+| Basement               |  [Leapin](https://docs.google.com/document/d/1f_pqys0On6WQLmpHFvsHBFmdH5PN9o_jza8o20fy56E/edit?usp=sharing)      | Verner Codoceo      |
+| teamPHP                |  [Leapin](https://docs.google.com/document/d/1f_pqys0On6WQLmpHFvsHBFmdH5PN9o_jza8o20fy56E/edit?usp=sharing)      | Verner Codoceo      |
+| Webos                  |  [Leapin](https://docs.google.com/document/d/1f_pqys0On6WQLmpHFvsHBFmdH5PN9o_jza8o20fy56E/edit?usp=sharing)      | Sebastián Felbol    |
+| Nombre Generico        |  [EncuentraTuClase](https://docs.google.com/document/d/1uav7VCsBrMMVAv55pjmq00BkoZkjo84PncXTYj8sGYg/edit?usp=sharing)      | José Morales Lira   |
+| the web-ones           |  [EncuentraTuClase](https://docs.google.com/document/d/1uav7VCsBrMMVAv55pjmq00BkoZkjo84PncXTYj8sGYg/edit?usp=sharing)      | José Morales Lira   |
+| Capp                   |  [EncuentraTuClase](https://docs.google.com/document/d/1uav7VCsBrMMVAv55pjmq00BkoZkjo84PncXTYj8sGYg/edit?usp=sharing)      | José Morales Lira   |
+| Webelopers             |  [EncuentraTuClase](https://docs.google.com/document/d/1uav7VCsBrMMVAv55pjmq00BkoZkjo84PncXTYj8sGYg/edit?usp=sharing)      | Yoav Navon          |
+| Rezagados por la Dipre |  [EncuentraTuClase](https://docs.google.com/document/d/1uav7VCsBrMMVAv55pjmq00BkoZkjo84PncXTYj8sGYg/edit?usp=sharing)      | Yoav Navon          |
+| Solcitos               |  [TravelPlan](https://docs.google.com/document/d/1QjRTJzZy_alGnRNeemSW0DtP3rYpggvBh6UkbL2BE2c/edit?usp=sharing)      | Yoav Navon          |
+| CDF                    |  [TravelPlan](https://docs.google.com/document/d/1QjRTJzZy_alGnRNeemSW0DtP3rYpggvBh6UkbL2BE2c/edit?usp=sharing)      | Yoav Navon          |
+| BaconSquad             |  [TravelPlan](https://docs.google.com/document/d/1QjRTJzZy_alGnRNeemSW0DtP3rYpggvBh6UkbL2BE2c/edit?usp=sharing)      | José Morales Lira   |
+| Import Team            |  [TravelPlan](https://docs.google.com/document/d/1QjRTJzZy_alGnRNeemSW0DtP3rYpggvBh6UkbL2BE2c/edit?usp=sharing)      | José Morales Lira   |
+| Grupo_200              |  [Culturizan12](https://docs.google.com/document/d/1wA3xYinyUGJW3zYN2vkoyAdGRFKa7beWN1uCMYvpgi8/edit?usp=sharing)      | Vicente Águila      |
+| Tako                   |  [Culturizan12](https://docs.google.com/document/d/1wA3xYinyUGJW3zYN2vkoyAdGRFKa7beWN1uCMYvpgi8/edit?usp=sharing)      | Vicente Águila      |
+| Las Estrellas          |  [Culturizan12](https://docs.google.com/document/d/1wA3xYinyUGJW3zYN2vkoyAdGRFKa7beWN1uCMYvpgi8/edit?usp=sharing)      | Vicente Águila      |
+| DropTables             |  [Culturizan12](https://docs.google.com/document/d/1wA3xYinyUGJW3zYN2vkoyAdGRFKa7beWN1uCMYvpgi8/edit?usp=sharing)      | Vicente Águila      |
+| vigdie                 |  [ElContainer](https://docs.google.com/document/d/1-c1aLwdUhI1O0IcXMQeLrShkn3YQrjkcyBwBPu-P2IE/edit?usp=sharing)      | Andrés Mardones     |
+| FCFC                   |  [ElContainer](https://docs.google.com/document/d/1-c1aLwdUhI1O0IcXMQeLrShkn3YQrjkcyBwBPu-P2IE/edit?usp=sharing)      | Andrés Mardones     |
+| Sanganao               |  [ElContainer](https://docs.google.com/document/d/1-c1aLwdUhI1O0IcXMQeLrShkn3YQrjkcyBwBPu-P2IE/edit?usp=sharing)      | Andrés Mardones     |
+| null                   |  [ElContainer](https://docs.google.com/document/d/1-c1aLwdUhI1O0IcXMQeLrShkn3YQrjkcyBwBPu-P2IE/edit?usp=sharing)      | Gabriel Faundez     |
+| güev                   |  [ElContainer](https://docs.google.com/document/d/1-c1aLwdUhI1O0IcXMQeLrShkn3YQrjkcyBwBPu-P2IE/edit?usp=sharing)      | Gabriel Faundez     |
+| DIPREScript            |  [EasyWedding](https://docs.google.com/document/d/1BfLXUTcOJ7eXdVgXmZ34htYd22O4DguSdakBKqGWbeg/edit?usp=sharing)      | Sebastián Felbol    |
+| COFG                   |  [EasyWedding](https://docs.google.com/document/d/1BfLXUTcOJ7eXdVgXmZ34htYd22O4DguSdakBKqGWbeg/edit?usp=sharing)      | Sebastián Felbol    |
+| hola_mundo             |  [EasyWedding](https://docs.google.com/document/d/1BfLXUTcOJ7eXdVgXmZ34htYd22O4DguSdakBKqGWbeg/edit?usp=sharing)      | Sebastián Felbol    |
+| RadioGroup             |  [EasyWedding](https://docs.google.com/document/d/1BfLXUTcOJ7eXdVgXmZ34htYd22O4DguSdakBKqGWbeg/edit?usp=sharing)      | Verner Codoceo      |
+| Puro Web               |  [EasyWedding](https://docs.google.com/document/d/1BfLXUTcOJ7eXdVgXmZ34htYd22O4DguSdakBKqGWbeg/edit?usp=sharing)      | Verner Codoceo      |
 
 Pueden ver los datos para poder contactar a su ayudante en el [programa del curso](../../../#equipo)
 

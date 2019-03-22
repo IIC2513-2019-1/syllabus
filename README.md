@@ -28,6 +28,13 @@
 
 | Nombre                | Github        | Email         |
 |:--------------------- |:--------------|:--------------|
+| Vicente Águila       |  [@vaguila95](https://github.com/vaguila95)  | vlaguila@uc.cl |
+| Verner Codoceo       |  [@vacodoceo](https://github.com/vacodoceo)  | vacodoceo@uc.cl |
+| Gabriel Faundez      |  [@FarDust](https://github.com/FarDust)      | gnfaundez@uc.cl |
+| Sebastián Felbol     |  [@Seba-F](https://github.com/Seba-F)        | sifelbol@uc.cl |
+| Andrés Mardones      |  [@agmardones](https://github.com/agmardones)| agmardones@uc.cl |
+| José Morales Lira    |  [@josemlira](https://github.com/josemlira)  | jmmorales@uc.cl |
+| Yoav Navon           |  [@yoavnavon](https://github.com/yoavnavon)  | yanavon@uc.cl |
 
 
 ## Objetivos
