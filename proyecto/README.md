@@ -50,7 +50,7 @@ Pueden ver los datos para poder contactar a su ayudante en el [programa del curs
 
 Las entregas tendrán una duración aproximada de 2 semanas cada una, aunque es posible que en ocasiones el enunciado de una entrega sea publicado con mayor antelación. A continuación las fechas estimadas de entrega
 
-* **[Entrega 1](enunciados/entrega1.md):** Jueves 28 de Marzo, 23:59 hrs.
+* **[Entrega 1](enunciados/entrega1.md):** Viernes 29 de Marzo, 23:59 hrs.
 * **[Entrega 2](enunciados/entrega2.md):** Lunes 15 de Abril, 23:59 hrs.
 * **[Entrega 3](enunciados/entrega3.md):** Lunes 6 de Mayo, 23:59 hrs.
 * **[Entrega 4](enunciados/entrega4.md):** Lunes 20 de Mayo, 23:59 hrs.
