@@ -33,6 +33,7 @@ Cada equipo tiene asignado un proyecto y un ayudante que los guiará y evaluará
 | Tako                   |  [Culturizan12](https://docs.google.com/document/d/1wA3xYinyUGJW3zYN2vkoyAdGRFKa7beWN1uCMYvpgi8/edit?usp=sharing)      | Vicente Águila      |
 | Las Estrellas          |  [Culturizan12](https://docs.google.com/document/d/1wA3xYinyUGJW3zYN2vkoyAdGRFKa7beWN1uCMYvpgi8/edit?usp=sharing)      | Vicente Águila      |
 | DropTables             |  [Culturizan12](https://docs.google.com/document/d/1wA3xYinyUGJW3zYN2vkoyAdGRFKa7beWN1uCMYvpgi8/edit?usp=sharing)      | Vicente Águila      |
+| GraciasDipre           |  [Culturizan12](https://docs.google.com/document/d/1wA3xYinyUGJW3zYN2vkoyAdGRFKa7beWN1uCMYvpgi8/edit?usp=sharing)      | Vicente Águila      |
 | vigdie                 |  [ElContainer](https://docs.google.com/document/d/1-c1aLwdUhI1O0IcXMQeLrShkn3YQrjkcyBwBPu-P2IE/edit?usp=sharing)      | Andrés Mardones     |
 | FCFC                   |  [ElContainer](https://docs.google.com/document/d/1-c1aLwdUhI1O0IcXMQeLrShkn3YQrjkcyBwBPu-P2IE/edit?usp=sharing)      | Andrés Mardones     |
 | Sanganao               |  [ElContainer](https://docs.google.com/document/d/1-c1aLwdUhI1O0IcXMQeLrShkn3YQrjkcyBwBPu-P2IE/edit?usp=sharing)      | Andrés Mardones     |
