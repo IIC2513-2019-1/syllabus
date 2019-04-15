@@ -97,10 +97,13 @@ La nota final considera las interrogaciones, el examen práctico y el proyecto d
   * Si notas Teórica y Práctica son mayores o iguales a 4 entonces es el promedio de ambas.
   * En caso contrario, la menor entre ambas
 * **Fechas de interrogaciones:**
-  * **I1:** 3 de Abril
-  * **I2:** 3 de Mayo
-  * **I3:** 30 de Mayo
-  * **Exámen:** 3 de Julio
+
+| Evaluación           | Sección 1     |  Sección 2     |
+|:-------------------- |:--------------| :--------------|
+| I1                   |  3 de Abril   |  16 de Abril   |
+| I2                   |  3 de Mayo    |  14 de Mayo    |
+| I3                   |  30 de Mayo   |  12 de Junio   |
+| Ex                   |  3 de Julio   |  1 de Julio    |
 
 Durante el semestre podrían haber evaluaciones y/o acividades, con o sin previo aviso, que aunque no serán consideradas directamente en la nota final, podrían significar bonificaciones en alguna de las evaluaciones listadas anteriormente.
 
