@@ -1,6 +1,6 @@
 # Entrega 4
 
-Fecha límite: Lunes 20 de Mayo, 23:59 hrs.
+Fecha límite: Lunes 22 de Mayo, 23:59 hrs.
 
 ## Introducción
 
