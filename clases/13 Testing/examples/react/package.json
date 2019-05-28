@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "react": "16.4.0",
+    "react-dom": "16.4.0"
+  },
+  "devDependencies": {
+    "babel-jest": "*",
+    "babel-preset-env": "*",
+    "babel-preset-react": "*",
+    "jest": "*",
+    "jest-cli": "*"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
