@@ -5,8 +5,8 @@
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
-    "test": "mocha",
-    "jest": "jest jest.test.js"
+    "test": "mocha test/test.js",
+    "jest": "jest test/jest.test.js"
   },
   "author": "Gabriel Vidal",
   "license": "ISC",
@@ -16,9 +16,9 @@
   "devDependencies": {
     "eslint": "^4.19.1",
     "faker": "^4.1.0",
-    "jest": "^23.0.1",
-    "jest-cli": "^23.0.1",
-    "mocha": "^5.2.0",
-    "supertest": "^3.1.0"
+    "jest": "^24.8.0",
+    "jest-cli": "^24.8.0",
+    "mocha": "^6.1.4",
+    "supertest": "^4.0.2"
   }
 }

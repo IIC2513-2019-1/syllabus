@@ -1,14 +1,19 @@
 {
+  "private": true,
+  "version": "0.0.0",
+  "name": "example-react",
   "dependencies": {
-    "react": "16.4.0",
-    "react-dom": "16.4.0"
+    "react": "*",
+    "react-dom": "*"
   },
   "devDependencies": {
+    "@babel/core": "*",
+    "@babel/plugin-proposal-class-properties": "*",
+    "@babel/preset-env": "*",
+    "@babel/preset-react": "*",
     "babel-jest": "*",
-    "babel-preset-env": "*",
-    "babel-preset-react": "*",
     "jest": "*",
-    "jest-cli": "*"
+    "request": "^2.88.0"
   },
   "scripts": {
     "test": "jest"

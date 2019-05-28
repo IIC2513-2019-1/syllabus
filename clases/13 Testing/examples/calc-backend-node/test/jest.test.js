@@ -11,29 +11,29 @@ describe('Models', function() {
     
     describe('.calculate()', function() {
       describe('With valid values', function() {
-        it('should returns correct value when apply sum operation', function() {
+        it('returns correct value when apply sum operation', function() {
           const calculatorValue = calculator.calculate('sum', number1, number2);
           assert.equal(calculatorValue, number1 + number2);
         });
   
-        it('should returns correct value when apply sub operation', function() {
+        it('returns correct value when apply sub operation', function() {
           const calculatorValue = calculator.calculate('sub', number1, number2);
           assert.equal(calculatorValue, number1 - number2);
         });
   
-        it('should returns correct value when apply times operation', function() {
+        it('returns correct value when apply times operation', function() {
           const calculatorValue = calculator.calculate('times', number1, number2);
           assert.equal(calculatorValue, number1 * number2);
         });
   
-        it('should returns correct value when apply div operation', function() {
+        it('returns correct value when apply div operation', function() {
           const calculatorValue = calculator.calculate('div', number1, number2);
           assert.equal(calculatorValue, number1 / number2);
         });
       })
       
       describe('With invalid values', function() {
-        it('should returns null value when apply different operation', function() {
+        it('returns null value when apply different operation', function() {
           const calculatorValue = calculator.calculate('asd', number1, number2);
           assert.equal(calculatorValue, null);
         });
@@ -52,7 +52,7 @@ describe('Integration', function() {
     const api = supertest(app);
 
     describe('GET /operations', function() {
-      it('should returns correct result', function(done) {        
+      it('returns correct result', function(done) {        
         api.get(`/operations/${operation}/${number1}/${number2}`)
           .expect(200, {
             result: calculatorValue,

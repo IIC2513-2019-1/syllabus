@@ -5,14 +5,12 @@ import React from 'react';
 export default class CheckboxWithLabel extends React.Component {
   constructor(props) {
     super(props);
-    this.state = {isChecked: false};
-
-    this.onChange = this.onChange.bind(this);
+    this.state = { isChecked: false };
   }
 
-  onChange() {
-    this.setState({isChecked: !this.state.isChecked});
-  }
+  onChange = () => {
+    this.setState({ isChecked: !this.state.isChecked });
+  };
 
   render() {
     return (
